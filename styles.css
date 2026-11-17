@@ -1,7 +1,15 @@
-display: grid;
-place-items: center;
+body {
+  background-color: #4a494f;
+}
 
-background: #3e3d42;
-color: #fff;
+h1 {
+  text-align: center;
+  color: white;
+}
+
+p {
+  text-align: center;
+  color: white;
+}
 
 font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
